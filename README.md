@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahma28
+- 👋 Hi, I’m rahma
 - 👀 I’m interested in Technical Writing
 - 🌱 I’m currently learning XML, Python and Java
 
