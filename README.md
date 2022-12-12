@@ -1,6 +1,7 @@
 - 👋 Hi, I’m rahma
-- 👀 I’m interested in Technical Writing
-- 🌱 I’m currently learning XML, Python and Java
+- 👀 I’m a Technical Writer
+- 🌱 I’m starting to writing about the technical documentation
+- Enjoy your day - Cheers
 
 
 <!---
